@@ -43,7 +43,7 @@ h5 {
 
 .p-text {
     padding-top: 10px;
-    padding-right: 150px;
+    padding-right: 120px;
     font-size: 1.4rem;
     color:  hsl(0, 0%, 98%);
 }
@@ -201,7 +201,7 @@ ul li .active:hover {
     float: right;
 }
 .section1 .human .grey {
-    width: 14%;
+    width: 20%;
     height: 3px;
     background-color: grey;
 }
